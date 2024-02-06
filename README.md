@@ -1,6 +1,6 @@
 # Frontend Mentor - QR Code Component Challenge
 
-![Project Preview](link_to_preview_image)
+![Project Preview](https://github.com/yusufafify/Front-end-Mentor-QR-Challenge/assets/115397064/bc0dfbe9-f12b-48da-9190-0a99f0f4c0b4)
 
 ## Overview
 
